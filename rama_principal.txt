@@ -1,1 +1,2 @@
  "Este archivo fue creado en la Rama principal" 
+"Se agrega mas contenido al archivo rama_principal.txt desde mi rama Rama_Secundaria" 
